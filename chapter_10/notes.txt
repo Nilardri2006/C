@@ -1,0 +1,14 @@
+when we write a aprogram the program makes a exe
+and that load in RAM and then executed and after that
+the RAM deletes that data
+
+c program can be written and read by FILE
+
+FILE is a sructure which is needed to be created after opening the FILE
+
+as we close fridge after opening like this we need to closea file
+after opening it using fclose.....to say os that we r done with this file
+
+
+write mode always make the just made file empty and then rewrites 
+according to the code
